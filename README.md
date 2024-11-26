@@ -6,3 +6,11 @@ SimonRG</a></h1>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
+
+👨‍💻 Junior Backend Developer con experiencia en PHP (soporte y desarrollo).
+🌟 Objetivo: Ser Full Stack con bases sólidas en JavaScript (Node.js, NestJS, React).
+💡 Apasionado por la programación y aprender cosas nuevas constantemente.
+🤝 Trabajo en equipo y contribución a mejorar código y funcionalidades.
+✅ Fiel a las buenas prácticas para un código limpio y escalable.
+
+¡Listo para seguir creciendo y enfrentar nuevos desafíos! 💪
