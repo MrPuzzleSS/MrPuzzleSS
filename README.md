@@ -7,7 +7,7 @@ SimonRG</a></h1>
 
 <br><br>
 
--👨‍💻 Junior Backend Developer con experiencia en PHP (soporte y desarrollo).
+- :student: Junior Backend Developer
 -🌟 Objetivo: Ser Full Stack con bases sólidas en JavaScript (Node.js, NestJS, React).
 -💡 Apasionado por la programación y aprender cosas nuevas constantemente.
 -🤝 Trabajo en equipo y contribución a mejorar código y funcionalidades.
