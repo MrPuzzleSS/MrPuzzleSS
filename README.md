@@ -1,5 +1,5 @@
 <div align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3363F7&width=435&lines=Hola+Soy+Sim%C3%B3n+Ruiz+Garcia;Programador+Backend+Y+Pr%C3%B3ximamente...;+Fullstack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3363F7&width=435&lines=Hola+soy+Sim%C3%B3n+Ruiz+Garcia;Backend+developer+y+pr%C3%B3ximamente...;Fullstack+developer" alt="Typing SVG" /></a>
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
