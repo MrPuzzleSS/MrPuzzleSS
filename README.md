@@ -44,8 +44,8 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![MrPuzzleSS's Stats](https://github-readme-stats.vercel.app/api?username=MrPuzzleSS&theme=algolia&show_icons=true&hide_border=true&count_private=true)&nbsp;
-![MrPuzzleSS's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrPuzzleSS&theme=algolia&hide_border=true)&nbsp;
+![MrPuzzleSS's Stats](https://github-readme-stats.vercel.app/api?username=MrPuzzleSS&theme=nord&show_icons=true&hide_border=true&count_private=true)&nbsp;
+![MrPuzzleSS's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrPuzzleSS&theme=nord&hide_border=true)&nbsp;
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
