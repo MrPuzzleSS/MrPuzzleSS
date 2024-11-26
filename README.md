@@ -44,6 +44,8 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+![MrPuzzleSS's Stats](https://github-readme-stats.vercel.app/api?username=MrPuzzleSS&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
