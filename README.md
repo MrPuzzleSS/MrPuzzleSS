@@ -1,5 +1,4 @@
-<h1 align="center">Hola 👋, Soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-SimonRG</a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77515&width=435&lines=Hola+Soy+Sim%C3%B3n+Ruiz+Garcia;Soy+programador+backend;Proximamente+Fullstack" alt="Typing SVG" /></a>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
