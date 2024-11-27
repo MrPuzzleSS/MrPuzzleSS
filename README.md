@@ -10,7 +10,7 @@
 
 - :school: Junior Backend Developer
 - :trophy: Objetivo: Ser Full Stack
-- :computer: Apasionado por la programación y aprender cosas nuevas constantemente.
+- :computer: Apasionado por la programación
 - :nerd_face: Siempre `aprendiendo nuevas cosas`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
